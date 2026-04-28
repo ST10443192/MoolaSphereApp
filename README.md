@@ -2,7 +2,7 @@
  https://youtu.be/iuHq7qLk2Po?si=1tAsFyixI2haIXbM
  
  
- Table of Contents
+Table of Contents
 INTRODUCTION	3
 Overview of the App	3
 Innovative Features to include	4
@@ -19,14 +19,14 @@ Conclusion	10
 References	11		
  
 INTRODUCTION
-This project focuses on the analysis done on existing budgeting applications and the development and purpose of a new budgeting app called MoolaSphere.This study is a continuation of the research of three existing budgeting apps ,namely Goodbudget, PocketSmith and splitwise. We examined their features, strengths and weaknesses in order to identify gaps and possible improvements to consider when creating the new app. Based on this research MoolaSphere will be designed to provide user-friendly and efficient platform that simplifies budgeting and enhances financial control.
+MoolaSphere is a user-friendly budgeting application designed to help individuals manage their finances in one smart, organized space.This study is a continuation of the research of three existing budgeting apps ,namely Goodbudget, PocketSmith and splitwise. We examined their features, strengths and weaknesses in order to identify gaps and possible improvements to consider when creating the new app. Based on this research MoolaSphere will be designed to provide user-friendly and efficient platform that simplifies budgeting and enhances financial control.
 OVERVIEW OF THE APP
 MoolaSphere
  
 Figure 1: Logo. Created by MoolaSphere using canva (2026).
 The MoolaSphere application is an intuitive budgeting app designed to put finances in one smart, easy to manage space.With powerful tracking tools, goal-setting features and a clean user interface ,MoolaSphere will help people take full control of their money.Whether one would be managing daily expenses, saving for future goals or building better financial habits , MoolaSphere is designed to keep everything connected.
 
-Innovative Features to include:
+Features:
 Digital Envelope Allocation (from Goodbudget): Proactive pre-allocation of funds into categories – prevents overspending.
 Calendar-Based Forecasting (from PocketSmith Sidekick): Future balance predictions and alerts for impending deficits.
 Debt Simplification Engine (from Splitwise): Automatic reduction of debts to lowest amounts – useful for stokvels or roommates.
@@ -35,7 +35,23 @@ Manual Entry with Notes & Receipt Upload: Desirable for cash expenses to provide
 
 Goal & Debt Tracking with Visual Progress: Desirable for motivation through visualization of progress which is suitable for South African users.
 
+Technologies Used
+Programming Language: Java /  Kotlin
+Database: SQLite (Local Database)
+Design Tools: Canva, MockUPhone
+Android Studio 
+Installation
+Download or clone the project files
+Open the project in your development environment
+Run the application
 
+
+Usage
+•	Create an account and log in
+•	Set your monthly budget and categories
+•	Add and track expenses
+•	View reports, graphs, and progress dashboards
+•	Monitor and manage shared debts if applicable
 Requirements of the app:
 •	User Authentication
 The user must be able to register and log in to the app using a username and password. This will provide essential security by verifying identities and protect sensitive data from unauthorized access.
@@ -69,6 +85,10 @@ The app must display a progress dashboard that shows well the user is staying wi
 
 •	Include gamification elements such as rewards badges for staying within the budget.
 The app must include gamification elements such as rewards or badges for meeting budget goals or consistent expense logging.
+
+
+
+
 User-interface Design:
 Sign-Up
 I simple sign-up/create account with textboxes for fullname, username, password, confirm password and a create account button. This user interface is simple and user friendly. 
@@ -107,9 +127,25 @@ Figure 7: Group Debt. Created by Moolasphere using Canva and MockUPhone (2026).
 
 . 
 
+
+
+
+
+
 Conclusion
 In conclusion, MoolaSphere is developed based on the analysis of PocketSmith, Splitwise, and Goodbudget, combining their strengths while improving on their weaknesses that were done as part of the research. The app unifies key functions including calendar-based forecasting, digital envelope budgeting, and debt simplicity into a single platform. The design document demonstrates how essential requirements such as budget goals, receipt uploads, category creation, expense monitoring, and visual dashboards enable these functionalities. MoolaSphere provides users with an easy and efficient way to manage their funds and develop better money habits because to its straightforward user interface and additional features like graphs and gamification.
-# MoolaSphereApp
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -117,6 +153,8 @@ References
 MockUPhone (2026) Mobile app mockup generator. Available at: https://mockuphone.com (Accessed: 19 Mrach 2026)
 Canva (2026) MoolaSphere UI mockups. Created by Moolasphere in Canva and framed using MockUPhone. (Accessed: 17 March 2026)
 Canva (2026) MoolaSphere Logo. Created by Moolasphere in Canva and framed using MockUPhone. (Accessed: 10 March 2026)
+
+
 
 
 
